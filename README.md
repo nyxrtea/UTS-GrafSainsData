@@ -29,7 +29,7 @@ Pada notebook utama, data diproses dan dianalisis dengan pendekatan berikut:
 - `output/` — folder hasil preprocessing, matriks, dan file pendukung yang dihasilkan dari notebook
 - `requirements.txt` — daftar dependency Python yang diperlukan
 
-## Teknologi yang Digunakan
+## Library yang Digunakan
 
 - Python
 - Pandas
