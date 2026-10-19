@@ -76,6 +76,3 @@ Untuk menjalankan notebook, pastikan environment sudah memiliki dependency yang 
 
 ```bash
 pip install -r requirements.txt
-```
-
-Lalu buka notebook menggunakan Jupyter Notebook atau JupyterLab.
