@@ -26,7 +26,7 @@ Pada notebook utama, data diproses dan dianalisis dengan pendekatan berikut:
 - rekomendasi berbasis K-Nearest Neighbors (KNN)
 - validasi dan interpretasi hasil analisis
 
-## Tujuan Praktikum
+## Tujuan 
 
 Tujuan utama dari proyek ini adalah:
 
