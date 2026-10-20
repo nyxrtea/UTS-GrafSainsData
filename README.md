@@ -94,7 +94,3 @@ Beberapa bagian analisis atau evaluasi dapat memerlukan eksekusi ulang agar hasi
 
 - Repository GitHub: https://github.com/nyxrtea/UTS-GrafSainsData
 - Notebook utama: `UTS_GRAF_SADA_23031554035_THEA BAYU REVALINA.ipynb`
-
-## Lisensi
-
-Proyek ini dibuat untuk kebutuhan akademik dan pembelajaran. Penggunaan lebih lanjut dapat disesuaikan dengan kebutuhan masing-masing pengguna.
